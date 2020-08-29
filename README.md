@@ -7,5 +7,3 @@ I'm TheMiCraft and I'm a member of Zyonic Software, Diamondsucht and MST-Network
 - MST-Network is an unreleased Organisation of any Minecraft Server.
 
 - 📫 How to reach me: (Discord: TheMiCraft#1967), (E-Mail: themicraft@diamondsucht.de)
-
-https://github-readme-stats.vercel.app/api?username=TheMiCraft

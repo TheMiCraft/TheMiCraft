@@ -5,4 +5,4 @@ I'm TheMiCraft, an developer for Java & Python.
 
 [![TheMiCraft's GitHub stats](https://github-readme-stats.vercel.app/api?username=themicraft&count_private=true&show_icons=true&hide=stars)](https://github.com/TheMiCraft/TheMiCraft)
 
-[![TheMiCraft's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=themicraft)](https://github.com/TheMiCraft/TheMiCraft)
+[![TheMiCraft's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=themicraft)](https://wakatime.com/@TheMiCraft)

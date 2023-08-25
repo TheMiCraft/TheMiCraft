@@ -1,7 +1,9 @@
 ### Hi there 👋
-I'm TheMiCraft, an developer for Java & Python.
+I'm Michel, an developer for Java & Python.
 
-- 📫 How to reach me: (Discord: TheMiCraft#1967)
+- 📫 How to reach me: (Discord: TheMiCraft#1967) (E-Mail: contact@themicraft.de)
+- 🖥 <a href="https://github.com/quantraxnet">@QuantraxNET</a> Admin & Developer
+- 🖥 <a href="https://github.com/karlo-hosting">@Karlo-Hosting</a> Admin
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=themicraft&count_private=true&show_icons=true&hide=stars&theme=tokyonight" />

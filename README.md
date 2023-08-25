@@ -8,5 +8,5 @@ I'm TheMiCraft, an developer for Java & Python.
 </a>
 
 <a href="https://wakatime.com/@TheMiCraft">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=themicraft&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=themicraft&theme=tokyonight&langs_count=5" />
 </a>

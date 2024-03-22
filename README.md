@@ -2,7 +2,7 @@
 I'm Michel, an developer for Java & Python.
 
 - 📫 How to reach me: (Discord: TheMiCraft#1967) (E-Mail: contact@themicraft.de)
-- 🖥 <a href="https://github.com/quantraxnet">@QuantraxNET</a> Admin & Developer
+- 🖥 <a href="https://github.com/minecountry">@MineCountry</a> System Admin
 - 🖥 <a href="https://github.com/karlo-hosting">@Karlo-Hosting</a> Admin
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

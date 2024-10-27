@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Michel, an developer for Java & Python.
 
-- 📫 How to reach me: (Discord: TheMiCraft#1967) (E-Mail: contact@themicraft.de)
+- 📫 How to reach me: (Discord: themicraft) (E-Mail: contact@themicraft.de)
 - 🖥 <a href="https://github.com/karlo-hosting">@Karlo-Hosting</a> Admin
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
